@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.leesy.dev/</loc>
+  <lastmod>2023-08-28T00:08:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.leesy.dev/7f72bfc5db4f46d0b2887c35fd0b2848</loc>
+  <lastmod>2023-08-28T00:08:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.leesy.dev/commit-message-convention</loc>
+  <lastmod>2023-08-28T00:08:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.leesy.dev/mac-dock--</loc>
+  <lastmod>2023-08-28T00:08:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.leesy.dev/regex</loc>
+  <lastmod>2023-08-28T00:08:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.leesy.dev/javascript-i18n</loc>
+  <lastmod>2023-08-28T00:08:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
